@@ -87,7 +87,8 @@ if (!apiBaseUrl) {
     notice.textContent = "Live connection interrupted. Reconnecting…";
   };
 
+  refresh();
   window.setInterval(() => {
-    if (liveUpdates.readyState !== EventSource.OPEN) refresh();
+    refresh();
   }, 5000);
 }
