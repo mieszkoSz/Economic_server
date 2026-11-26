@@ -1,0 +1,134 @@
+Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at <anonymous>:416:3
+    at <anonymous>:431:3
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9
+?features=datepicker,timezone,country_importance,filters&calType=week:1 Access to fetch at 'http://localhost:443/api/updates' from origin 'https://econcal.forexprostools.com' has been blocked by CORS policy: Permission was denied for this request to access the `loopback` address space.
+VM58:64  POST http://localhost:443/api/updates net::ERR_FAILED
+VM58:273 [economic-calendar-sync] Could not send snapshot. Check Chrome's local-network permission and API connectivity. TypeError: Failed to fetch
+    at fetchText (<anonymous>:64:12)
+    at sendPendingSnapshot (<anonymous>:237:5)
+    at queueSnapshot (<anonymous>:289:5)
+    at syncRows (<anonymous>:295:5)
+    at inspectFreshPage (<anonymous>:317:5)
+    at <anonymous>:353:9

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb">
+  <title>Economic Calendar</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./config.js"></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Economic Calendar home">
+        <span class="brand-mark" aria-hidden="true">E</span>
+        <span>Market<span class="brand-light">Brief</span></span>
+      </a>
+      <div class="live-status"><span class="pulse"></span> LIVE CALENDAR</div>
+    </header>
+
+    <section class="intro">
+      <p class="eyebrow">THE WEEK AHEAD</p>
+      <h1>Economic calendar</h1>
+      <p class="subtitle">A clear view of the releases moving global markets.</p>
+    </section>
+
+    <section class="card" aria-labelledby="calendar-title">
+      <div class="card-heading">
+        <div>
+          <h2 id="calendar-title">Upcoming releases</h2>
+          <p id="event-count" class="muted">Loading events…</p>
+        </div>
+        <div id="updated-at" class="updated">Updating…</div>
+      </div>
+      <div id="notice" class="notice" role="status" aria-live="polite"></div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Release</th>
+              <th scope="col">Date &amp; time</th>
+              <th scope="col">Actual</th>
+              <th scope="col">Forecast</th>
+              <th scope="col">Previous</th>
+            </tr>
+          </thead>
+          <tbody id="events">
+            <tr><td class="empty" colspan="5">Loading calendar…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <footer class="card-footer">
+        <span>Times are shown as provided by the data source.</span>
+        <span>Refreshes automatically</span>
+      </footer>
+    </section>
+    <footer class="page-footer">Economic data at a glance</footer>
+  </main>
+</body>
+</html>

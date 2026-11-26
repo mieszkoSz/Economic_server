@@ -1,0 +1,20 @@
+services:
+  economic-server:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "443:8080"
+      - "8080:8081"
+    environment:
+      ECONOMIC_API_TOKEN: "${ECONOMIC_API_TOKEN:?Set ECONOMIC_API_TOKEN}"
+      ECONOMIC_ALLOWED_ORIGINS: "${ECONOMIC_ALLOWED_ORIGINS:-}"
+      ECONOMIC_BIND_HOST: "0.0.0.0"
+    volumes:
+      - ./data:/app/data
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
