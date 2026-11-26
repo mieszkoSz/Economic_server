@@ -471,7 +471,7 @@ class DashboardHandler(SecureHandler):
 
 
 def _load_assets():
-    static_dir = ROOT / "static"
+    static_dir = ROOT / "docs"
     return {
         filename: (static_dir / filename).read_bytes()
         for filename in ("index.html", "app.js", "config.js", "styles.css")

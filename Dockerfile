@@ -7,7 +7,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 COPY --chown=10001:10001 server.py /app/server.py
-COPY --chown=10001:10001 static /app/static
+COPY --chown=10001:10001 docs /app/docs
 RUN mkdir -p /app/data && chown -R 10001:10001 /app
 
 USER 10001:10001
